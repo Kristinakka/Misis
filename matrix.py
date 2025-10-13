@@ -21,7 +21,7 @@ def transpose(nums):  # Функция
     return ans
 
 
-# print(transpose([[1, 2, 3]]))
+print(transpose([[1, 2, 3]]))
 
 
 def row_sums(nums):
@@ -42,7 +42,7 @@ def row_sums(nums):
     return ans
 
 
-# print(row_sums([[-1, 1], [10, -10]]))
+print(row_sums([[-1, 1], [10, -10]]))
 
 
 def col_sums(nums):

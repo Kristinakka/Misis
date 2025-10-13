@@ -1,16 +1,16 @@
 def min_max(nums):
-    if len(nums) == 0:
-        return ValueError
+    if nums == []:
+        return "ValueError"
     else:
-        return min(nums) and max(nums)
+        return min(nums), max(nums)
 
 
-print(min_max([(1, 2), [3, 4, 5]]))
+print(min_max([3, -1, 5, 5, 0]))
 
 
 def unique_sorted(nums1):
     if len(nums1) > 0:
-        return set(len(nums1))
+        return sorted(set(nums1))
 
 
 print(unique_sorted([-1, -1, 0, 2, 2]))
