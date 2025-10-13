@@ -5,9 +5,15 @@ def min_max(nums):
         return min(nums) and max(nums)
 
 
+print(min_max([(1, 2), [3, 4, 5]]))
+
+
 def unique_sorted(nums1):
     if len(nums1) > 0:
         return set(len(nums1))
+
+
+print(unique_sorted([-1, -1, 0, 2, 2]))
 
 
 def flatten(nums2):
