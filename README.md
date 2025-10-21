@@ -50,3 +50,26 @@
 <h1> задание3 <h1>
 
 <img width="1147" height="772" alt="tuples" src="https://github.com/user-attachments/assets/b8d3ea60-b0ac-44ae-bc38-063eb2775571" />
+
+Лабораторная работа №3
+=
+<h1> задание1.1 <h1>
+
+<img width="912" height="543" alt="A1" src="https://github.com/user-attachments/assets/947ef5bb-322c-4825-8eb9-5c26a508ed64" />
+
+<h1> задание1.2 <h1>
+
+<img width="772" height="380" alt="A2" src="https://github.com/user-attachments/assets/e4575cf6-ea5b-4265-8307-24a78c8918bb" />
+
+<h1> задание1.3 <h1>
+
+<img width="513" height="335" alt="A3" src="https://github.com/user-attachments/assets/0ccb37cb-6b7a-4c17-b7b9-2285605bf4e2" />
+
+<h1> задание1.4 <h1>
+
+<img width="653" height="316" alt="A4" src="https://github.com/user-attachments/assets/45188706-67f0-4757-8354-a60fb8d377df" />
+
+<h1> задание2.1 <h1>
+
+<img width="1277" height="911" alt="B1" src="https://github.com/user-attachments/assets/5af06df3-7bae-486d-ae04-4ea2540f9283" />
+
