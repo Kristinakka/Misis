@@ -73,3 +73,21 @@
 
 <img width="1277" height="911" alt="B1" src="https://github.com/user-attachments/assets/5af06df3-7bae-486d-ae04-4ea2540f9283" />
 
+Лабораторная работа №4
+=
+<h1> задание1<h1>
+
+<img width="922" height="950" alt="A1" src="https://github.com/user-attachments/assets/2546e62b-1e19-4bba-b246-2294827f823d" />
+<img width="993" height="128" alt="A2" src="https://github.com/user-attachments/assets/a7a0a9a2-d95f-4323-9150-4f65d706b030" />
+
+<h1> задание1. Текст.<h1>
+  
+<img width="347" height="106" alt="text" src="https://github.com/user-attachments/assets/dd2c7808-19b2-4df8-b3a8-dde4bf9e169e" />
+
+<h1> задание1. Вывод. <h1>
+
+<img width="313" height="531" alt="vivod" src="https://github.com/user-attachments/assets/dd0a9b2a-ac9e-4b6c-86bf-746259330d35" />
+
+<h1> задание2<h1>
+
+<img width="1482" height="847" alt="B" src="https://github.com/user-attachments/assets/e5b6d276-24d6-45c0-ac68-cfe23eb23d18" />
