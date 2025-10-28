@@ -91,3 +91,7 @@
 <h1> задание2<h1>
 
 <img width="1482" height="847" alt="B" src="https://github.com/user-attachments/assets/e5b6d276-24d6-45c0-ac68-cfe23eb23d18" />
+
+<h1> Задание 2. Вывод</h1>
+<img width="604" height="130" alt="image" src="https://github.com/user-attachments/assets/ac64400d-d92a-4a28-a6a7-11ac65a9270a" />
+
