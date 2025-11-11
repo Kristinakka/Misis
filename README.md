@@ -1,3 +1,18 @@
+Лабораторная работа №5
+=
+<h1> задание1<h1>
+  <img width="1072" height="937" alt="A1" src="https://github.com/user-attachments/assets/be49e629-7138-4b52-a611-c4727532c5da" />
+<img width="981" height="950" alt="A2" src="https://github.com/user-attachments/assets/9a24d164-acc7-4431-9ad9-d91e8825e1f1" />
+<img width="877" height="927" alt="A3" src="https://github.com/user-attachments/assets/9a59a7ff-9e3a-494d-8a3f-aa3d7903bafb" />
+<img width="726" height="577" alt="A4" src="https://github.com/user-attachments/assets/9ec46ebf-cd99-484d-9cc4-168e93fd7303" />
+<h1> задание1. Вывод<h1>
+<img width="292" height="168" alt="Csv1" src="https://github.com/user-attachments/assets/e2c29cd5-00a6-4a85-830d-c183763de64f" />
+<img width="397" height="138" alt="Json1" src="https://github.com/user-attachments/assets/f4e476dd-c770-4a72-b9d6-a917c2f45556" />
+
+
+<h1> задание2<h1>
+<img width="818" height="898" alt="B1" src="https://github.com/user-attachments/assets/8fa8cbd6-68b0-4d43-9fa6-829e109363c2" />
+<img width="692" height="822" alt="B2" src="https://github.com/user-attachments/assets/04e259f0-4432-40e2-98b5-eeff8fe55dac" />
 
 Лабораторная работа №4
 =
