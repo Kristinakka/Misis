@@ -1,3 +1,11 @@
+Лабораторная работа №6
+=
+<h1> задание1<h1>
+<img width="927" height="872" alt="A" src="https://github.com/user-attachments/assets/465a3afa-2efc-4abf-837a-a0b51d6b4d55" />
+<h1> задание1<h2>
+  <img width="848" height="902" alt="B1" src="https://github.com/user-attachments/assets/ce9229dd-5e4b-46f2-9f04-b9af88ac28b7" />
+<img width="1007" height="715" alt="B2" src="https://github.com/user-attachments/assets/2ed83867-10e1-4c8d-8225-2efa14bec080" />
+
 Лабораторная работа №5
 =
 <h1> задание1<h1>
