@@ -1,11 +1,25 @@
+Лабораторная работа №7
+=
+<h1> text_json</h>
+
+<img width="1178" height="935" alt="test_json" src="https://github.com/user-attachments/assets/f1aa3354-017c-41e4-963c-beeb1c991b6a" />
+
+<img width="1127" height="862" alt="test_JSON2" src="https://github.com/user-attachments/assets/98e840ef-7fbe-4012-989c-2995fc697521" />
+
+<img width="1112" height="807" alt="test_json3" src="https://github.com/user-attachments/assets/fc628588-1d02-4f30-857d-e967671c5c17" />
+<h1> text_text</h>
+<img width="1142" height="863" alt="test_text" src="https://github.com/user-attachments/assets/6db2bb3b-f4f5-4309-87ae-8c45f452399b" />
+<img width="1113" height="833" alt="test_text2" src="https://github.com/user-attachments/assets/bebdfd93-4b3f-4a90-b728-1419630f5231" />
+
+
 Лабораторная работа №6
 =
 <h1> задание1<h1>
 <img width="927" height="872" alt="A" src="https://github.com/user-attachments/assets/465a3afa-2efc-4abf-837a-a0b51d6b4d55" />
-<h1> задание1<h2>
+<h1> задание2<h1>
   <img width="848" height="902" alt="B1" src="https://github.com/user-attachments/assets/ce9229dd-5e4b-46f2-9f04-b9af88ac28b7" />
 <img width="1007" height="715" alt="B2" src="https://github.com/user-attachments/assets/2ed83867-10e1-4c8d-8225-2efa14bec080" />
-
+<h1> Вывод<h1>
 Лабораторная работа №5
 =
 <h1> задание1<h1>
