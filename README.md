@@ -6,7 +6,6 @@
 
 <h1> linked_list.py</h>
 
-/>
 <img width="844" height="876" alt="2025-12-23_11-42-46" src="https://github.com/user-attachments/assets/4617bd4b-f660-4956-aef7-2043944ea421" />
 <img width="738" height="889" alt="2025-12-23_11-43-11" src="https://github.com/user-attachments/assets/f8f382e0-a8f3-4da5-8222-a6c11c59949e" />
 <img width="850" height="855" alt="2025-12-23_11-43-33" src="https://github.com/user-attachments/assets/4734d2e3-2436-4e5f-8ed6-f9595338bd89" />
