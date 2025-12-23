@@ -1,3 +1,10 @@
+Лабораторная работа №8
+=
+<img width="1019" height="1002" alt="2025-12-23_11-30-13" src="https://github.com/user-attachments/assets/72e1ea2b-9308-496a-ac06-c3a69d3ac5cf" />
+
+<img width="937" height="904" alt="2025-12-23_11-32-08" src="https://github.com/user-attachments/assets/e3c4246d-8e6f-46bc-a477-7e3d163bdc80" />
+
+
 Лабораторная работа №7
 =
 <h1> text_json</h>
