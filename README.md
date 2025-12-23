@@ -1,3 +1,26 @@
+Лабораторная работа №10
+=
+<h1> examples.py</h>
+<img width="571" height="464" alt="2025-12-23_11-43-57" src="https://github.com/user-attachments/assets/35afaac5-83dc-40eb-92f5-38b30e656dac" />
+<h1> linked_list.py</h>
+<img width="700" height="900" alt="2025-12-23_11-42-08" src="https://github.com/user-attachments/assets/6c75c702-1c23-412d-9a9e-d11a70d57fea" />
+<img width="844" height="876" alt="2025-12-23_11-42-46" src="https://github.com/user-attachments/assets/4617bd4b-f660-4956-aef7-2043944ea421" />
+<img width="738" height="889" alt="2025-12-23_11-43-11" src="https://github.com/user-attachments/assets/f8f382e0-a8f3-4da5-8222-a6c11c59949e" />
+<h1> structures.py</h>
+<img width="850" height="855" alt="2025-12-23_11-43-33" src="https://github.com/user-attachments/assets/4734d2e3-2436-4e5f-8ed6-f9595338bd89" />
+Лабораторная работа №9
+=
+<h1> students.py</h>
+
+<img width="1019" height="1002" alt="2025-12-23_11-30-13" src="https://github.com/user-attachments/assets/052a3d3e-4aff-4692-94eb-242a553c54b3" />
+
+<img width="937" height="904" alt="2025-12-23_11-32-08" src="https://github.com/user-attachments/assets/5376d077-3499-4daf-b8c0-8ab078e0c563" />
+<h1> examples.py</h>
+<img width="731" height="564" alt="examples" src="https://github.com/user-attachments/assets/6adb7587-8818-4c67-b38f-2c11f840cab1" />
+
+<h1> students.csv</h>
+
+
 Лабораторная работа №8
 =
 <img width="1019" height="1002" alt="2025-12-23_11-30-13" src="https://github.com/user-attachments/assets/72e1ea2b-9308-496a-ac06-c3a69d3ac5cf" />
